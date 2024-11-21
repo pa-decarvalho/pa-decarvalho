@@ -9,23 +9,23 @@ I've recently begun my journey into open-source contributions, eager to learn an
 
 ## 💡 Skills
 
-- Computer science
-- Infrastructure as Code
-- Documentation as Code
-- CI/CD
-- Automation
+- 💻 Computer science
+- 🏗️ Infrastructure as Code
+- 📄 Documentation as Code
+- 🔄 CI/CD
+- 🤖 Automation
 
 ## 🛠️ DevOps Tools
 
-- Python
-- Ansible
-- Molecule
-- Docker
-- Gitlab CI
-- Terraform
-- MkDocs
+- 🐍 Python
+- 🤖 Ansible
+- 🧪 Molecule
+- 🐳 Docker
+- 🦊 Gitlab CI
+- 🌍 Terraform
+- 📖 MkDocs
 
 ## 🚀 Learning
 
-- Rust programming language 🦀
-- Game development with Godot 🎮
+- 🦀 Rust programming language
+- 🎮 Game development with Godot
