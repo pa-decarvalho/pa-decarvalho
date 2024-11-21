@@ -1,0 +1,32 @@
+---
+# Project information
+site_name: PA De Carvalho CV
+site_url: https://pa-decarvalho.github.io/pa-decarvalho/
+site_description: PA De Carvalho - Curriculum Vitae
+
+# Theme
+theme:
+  name: curriculum-vitae
+  firstname: PA
+  lastname: De Carvalho
+  mail: philippe.andre.decarvalho@gmail.com
+  location: France
+  profile_picture: https://avatars.githubusercontent.com/pa-decarvalho
+  personnal_links:
+    github: https://github.com/pa-decarvalho
+  experiences:
+    - title: Neo-Soft
+      description: |
+        DevOps Engineer
+    - title: Arondor
+      description: |
+        Java Developer
+  schools:
+    - title: EPITECH
+      description: Computer science
+    - title: Advanced Technician's Certificate
+      description: Automatic System Design and Production
+
+# Plugins
+plugins:
+  - search

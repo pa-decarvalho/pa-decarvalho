@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pa-decarvalho"
+version = "0.0.0"
+description = ""
+authors = ["Philippe-André De Carvalho <philippe.andre.decarvalho@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs = "^1.6.1"
+mkdocs-curriculum-vitae = "^0.1.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
