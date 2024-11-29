@@ -187,13 +187,13 @@ min-versions = ["babel (==2.9.0)", "click (==7.0)", "colorama (==0.4)", "ghp-imp
 
 [[package]]
 name = "mkdocs-curriculum-vitae"
-version = "0.2.0"
+version = "0.5.0"
 description = "MkDocs Theme for curriculum vitae"
 optional = false
 python-versions = ">=3.9"
 files = [
-    {file = "mkdocs_curriculum_vitae-0.2.0-py3-none-any.whl", hash = "sha256:c57fda045c1a8cc84a52731fffffe8f6225320085c78bb0c7ddb3d086fdaf6a5"},
-    {file = "mkdocs_curriculum_vitae-0.2.0.tar.gz", hash = "sha256:d8315d54e1b330e7812316325f3eae5d1ba9c07024edf18369e7609e3195d1d0"},
+    {file = "mkdocs_curriculum_vitae-0.5.0-py3-none-any.whl", hash = "sha256:04d4fb0db32a022f14140821470c897bea8dcfa4cae086b6087442cec9cbf08b"},
+    {file = "mkdocs_curriculum_vitae-0.5.0.tar.gz", hash = "sha256:f03ed8cf956e1ad0e70e6b64e2504a434ff2f27f236fe58fcb3719831af0e3d4"},
 ]
 
 [package.dependencies]
@@ -402,4 +402,4 @@ watchmedo = ["PyYAML (>=3.10)"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "62e70190e8d58e01733f0ab4a7309b0544efef51c442fd744944a65c03381839"
+content-hash = "78fa76bfe64efda8e030abdcb2beb6466e3e3ff5022227d095419937f0f65c6c"

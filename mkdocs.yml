@@ -7,7 +7,8 @@ site_description: PA De Carvalho - Curriculum Vitae
 # Theme
 theme:
   name: curriculum-vitae
-  firstname: PA
+  main_title: Philippe-André De Carvalho
+  firstname: Philippe-André
   lastname: De Carvalho
   mail: philippe.andre.decarvalho@gmail.com
   location: France
@@ -31,6 +32,20 @@ theme:
       description: Automatic System Design and Production
       start_date: 2012-09-01
       end_date: 2014-07-31
+  skills:
+    - 🐍 Python
+    - 🤖 Ansible
+    - 🧪 Molecule
+    - 🐳 Docker
+    - 🦊 Gitlab CI
+    - 🌍 Terraform
+    - 📖 MkDocs
+  hobbies:
+    - 🎮 Video games
+    - 🌐 Open source projects
+    - 🏃‍♂️ Sports
+  certifications:
+    - 🌀 Professional Scrum Master™ I
 
 # Plugins
 plugins:

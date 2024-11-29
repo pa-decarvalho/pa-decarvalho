@@ -1,5 +1,6 @@
 # pa-decarvalho
 
+[![gitpod-ready-to-code](https://img.shields.io/badge/gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/pa-decarvalho/pa-decarvalho)
 [![cv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pa-decarvalho/pa-decarvalho/main/assets/badges/cv.json)](https://pa-decarvalho.github.io/pa-decarvalho/)
 
 ## 👋 Hi there!
