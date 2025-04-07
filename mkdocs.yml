@@ -7,6 +7,7 @@ site_description: PA De Carvalho - Curriculum Vitae
 # Theme
 theme:
   name: curriculum-vitae
+  mkcv_layout: vertical
   main_title: Philippe-André De Carvalho
   firstname: Philippe-André
   lastname: De Carvalho
