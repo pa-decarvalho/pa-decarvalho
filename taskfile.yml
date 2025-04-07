@@ -13,8 +13,8 @@ tasks:
     cmds:
       - task: help
 
-  bootstrap:
-    desc: Bootstrap project
+  init:
+    desc: Init project
     silent: true
     cmds:
       - poetry install
@@ -30,7 +30,7 @@ tasks:
     silent: true
     cmds:
       - task: clean
-      - task: bootstrap
+      - task: init
 
   help:
     desc: Display help

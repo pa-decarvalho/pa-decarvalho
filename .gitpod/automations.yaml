@@ -1,0 +1,8 @@
+---
+tasks:
+  init:
+    name: Init dev project
+    command: |
+      task init
+    triggeredBy:
+      - postEnvironmentStart
