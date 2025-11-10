@@ -17,9 +17,13 @@ theme:
   personnal_links:
     github: https://github.com/pa-decarvalho
   experiences:
+    - title: Education nationale
+      description: DevOps Engineer
+      start_date: 2025-09-01
     - title: Neo-Soft
       description: DevOps Engineer
       start_date: 2019-10-01
+      end_date: 2025-08-29
     - title: Arondor
       description: Java Developer
       start_date: 2018-04-01
@@ -34,19 +38,20 @@ theme:
       start_date: 2012-09-01
       end_date: 2014-07-31
   skills:
-    - 🐍 Python
-    - 🤖 Ansible
-    - 🧪 Molecule
-    - 🐳 Docker
-    - 🦊 Gitlab CI
-    - 🌍 Terraform
-    - 📖 MkDocs
+    - Python
+    - Ansible
+    - Molecule
+    - Docker
+    - Gitlab CI
+    - Terraform
+    - MkDocs
   hobbies:
-    - 🎮 Video games
-    - 🌐 Open source projects
-    - 🏃‍♂️ Sports
+    - Video games
+    - Open source projects
+    - Sports
   certifications:
-    - 🌀 Professional Scrum Master™ I
+    - name: Professional Scrum Master™ I
+      link: https://www.credly.com/badges/4693b141-edc7-416a-9813-7f3b5c68564f
 
 # Plugins
 plugins:

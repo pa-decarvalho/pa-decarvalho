@@ -10,11 +10,9 @@ RUN apt-get update -y && apt-get upgrade -y && \
     apt-get clean && \
     rm -rf /var/lib/apt/lists/*
 
-### Install Task (https://taskfile.dev/) ###
-RUN sh -c "$(curl --location https://taskfile.dev/install.sh)" -- -d -b /usr/local/bin && \
-    bash -c "task --completion bash > /etc/bash_completion.d/task"
-
 # hadolint ignore=DL3013
-RUN pip install --no-cache-dir --upgrade pip poetry
+RUN pip install --no-cache-dir --upgrade pip poetry go-task-bin
 
 USER vscode
+
+RUN echo 'alias ll="ls -lisa"' >> ~/.bashrc

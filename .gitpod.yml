@@ -1,9 +1,0 @@
----
-image:
-  file: .devcontainer/Dockerfile
-
-tasks:
-  - name: Init dev env
-    command: |
-      task init
-      task help

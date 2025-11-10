@@ -1,17 +1,13 @@
 ---
 version: "3"
 
-vars:
-  TASK_VERSION: 3.40.0
-
 includes:
   mkdocs: .taskfiles/mkdocs.yml
-  update: .taskfiles/update.yml
 
 tasks:
   default:
     cmds:
-      - task: help
+      - task --list
 
   init:
     desc: Init project
@@ -31,9 +27,3 @@ tasks:
     cmds:
       - task: clean
       - task: init
-
-  help:
-    desc: Display help
-    silent: true
-    cmds:
-      - task --list
